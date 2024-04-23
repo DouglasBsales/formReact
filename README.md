@@ -1,8 +1,23 @@
-# React + Vite
+# Formulário de cadastro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔨 Funcionalidades do projeto
 
-Currently, two official plugins are available:
+Disponível tanto para desktop, tanto para celular <br> 
+Um formulário super prático usando React e o React-hook-form<br>
+Onde podemos de forma mais prática manipular os estados dos elementos <br>
+sem o uso contínuo de States explicitamente no código. <br> 
+Tornando a aplicação mais rápida e melhorando a experiência do usuário. <br> 
+O componente só é renderizado novamente quando o campo retorna False <br> 
+fora isso, o componente é renderizado apenas uma vez caso retorne true. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# ✔️ Técnicas e tecnologias utilizadas
+REACT <br>
+REACT-HOOK-FORM <BR> 
+VALIDATOR <br>
+JAVASCIPT <br>
+TAILWIND CSS
+
+
+# 📁 Acesso ao projeto
+# formreact-doug.vercel.app
